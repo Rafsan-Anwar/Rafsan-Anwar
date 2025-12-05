@@ -6,26 +6,28 @@ Welcome to my GitHub! I specialize in end-to-end cybersecurity operations, penet
 ---
 
 ## 🚀 **About Me**
-I am an **IT Security Expert (Purple Teamer)** with a proven track record in delivering security solutions across diverse environments. Over the years, I have:
+I am an **IT Expert** with a proven track record in delivering security solutions across diverse environments. Over the years, I have:
 - Conducted **penetration testing** and **vulnerability assessments** on systems, cloud platforms, and web applications.
 - Designed and managed **Security Operation Centers (SOC)** with SIEM, SOAR, Threat Intelligence, and Incident Response capabilities.
 - Built and deployed **security automation tools** and Python-based utilities to enhance detection and response capabilities.
 - Performed **security audits**, **hardening**, and **forensic investigations** to diagnose and mitigate attacks.
 - Supported organizations in strengthening their cybersecurity posture and enhancing operational resilience.
+- Deployed cloud based projects on AWS platform.
+- Container administration and security
 
-My background includes a **Master's in Computer Science & Engineering** along with multiple **industry certifications** in IT and cybersecurity.
 
 ---
 
 ## 🔧 **Core Expertise**
 - 🔐 Penetration Testing & Vulnerability Assessment
-- 🛡️ Security Hardening & Security Audit
-- ☁️ Cloud & Network Security
+- 🛡️ Security Hardening by implementation & Security Audit
+- 
 - 🧠 Threat Intelligence & Incident Response
 - 🖥️ SOC Design, SIEM, SOAR, EDR & XDR Implementation
-- 🧪 Malware & Forensic Analysis
-- 🧰 Python Tool Development & Security Automation
-- 🧵 Security Operations & Continuous Monitoring
+- 🔍 Forensic Analysis
+- 🛠️ Python Tool Development & Security Automation
+- ☁️ AWS Cloud Administration
+- 🐳 Container administration and Orchestration
 
 ---
 
@@ -57,9 +59,9 @@ I am driven by the goal of **strengthening the digital ecosystem**, ensuring tha
 ---
 
 ## 📫 **Connect With Me**
-- 🔗 LinkedIn: *(Add Your LinkedIn URL)*
-- 🌐 Website/Portfolio: *(Add your website URL if any)*
-- ✉️ Email: *(Add your professional email)*
+- 🔗 LinkedIn: *https://www.linkedin.com/in/rafsan-anwar/*
+- 🌐 Website/Portfolio: *https://github.com/Rafsan-Anwar/*
+- ✉️ Email: *rafsananwar007@gmail.com*
 
 ---
 
