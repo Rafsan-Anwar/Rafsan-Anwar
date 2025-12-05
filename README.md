@@ -21,7 +21,6 @@ I am an **IT Expert** with a proven track record in delivering security solution
 ## 🔧 **Core Expertise**
 - 🔐 Penetration Testing & Vulnerability Assessment
 - 🛡️ Security Hardening by implementation & Security Audit
-- 
 - 🧠 Threat Intelligence & Incident Response
 - 🖥️ SOC Design, SIEM, SOAR, EDR & XDR Implementation
 - 🔍 Forensic Analysis
