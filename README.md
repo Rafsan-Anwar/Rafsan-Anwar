@@ -31,8 +31,8 @@ I am an **IT Expert** with a proven track record in delivering security solution
 ---
 
 ## 🛠️ **Tools & Technologies**
-**Security & Analysis:** Burp Suite, Nmap, Metasploit, Wireshark, Nessus, OpenVAS, Autopsy, FTKimager 
-**SOC & Monitoring:** Splunk, ELK, Wazuh, TheHive, Cortex, MISP, QRadar, Azure Sentinel, Shuffle, CTI 
+**Security & Analysis:** Burp Suite, Nmap, Metasploit, Wireshark, Nessus, OpenVAS, Autopsy, FTKimager  
+**SOC & Monitoring:** Splunk, ELK, Wazuh, TheHive, Cortex, MISP, QRadar, Azure Sentinel, Shuffle, CTI  
 **Cloud:** AWS (Security & Architecture)  
 **Automation & Dev:** Python, Bash, Git, CI/CD
 
